@@ -1,9 +1,14 @@
 name: astrbot_plugin_lively_qzone
 display_name: QQ 空間說說
 desc: 寫 QQ 空間說說，主人審核後發佈
+short_desc: 寫 QQ 空間說說，主人審核後發布
 version: 2.0.0
 author: GUCine
 repo: https://github.com/GUCine/astrbot_plugin_lively_qzone
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.29.0"
+tags:
+  - QQ空間
+  - 說說
+  - lively
